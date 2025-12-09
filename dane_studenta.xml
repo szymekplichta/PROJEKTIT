@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+    <dane_osobowe>
+        <imie>Szymon</imie>
+        <nazwisko>Plichta</nazwisko>
+        <numer_indeksu>208960</numer_indeksu>
+    </dane_osobowe>
+    <uczelnia>
+        <nazwa>Politechnika Gdańska</nazwa>
+        <wydzial>ETI</wydzial>
+    </uczelnia>
+    <oceny>
+        <przedmiot nazwa="NITIJP">5.0</przedmiot>
+        <przedmiot nazwa="Projekt">4.5</przedmiot>
+    </oceny>
+</student>
