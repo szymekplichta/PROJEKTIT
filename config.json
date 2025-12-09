@@ -1,0 +1,17 @@
+{
+  "app_settings": {
+    "app_name": "System Studenta",
+    "version": "1.0.2",
+    "language": "pl_PL",
+    "theme": "dark_mode"
+  },
+  "current_user": {
+    "id": 208960,
+    "username": "szymon_plichta",
+    "is_admin": false,
+    "preferences": {
+      "notifications": true,
+      "newsletter": false
+    }
+  }
+}
