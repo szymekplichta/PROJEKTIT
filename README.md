@@ -1,4 +1,4 @@
-# Projekt Zaliczeniowy: Nauki IT
+# Projekt Zaliczeniowy: NITIJP
 
 Witaj w repozytorium zaliczeniowym. Projekt ten demonstruje wykorzystanie różnych formatów danych w kontekście przechowywania informacji o studencie.
 
@@ -28,4 +28,5 @@ W tym projekcie znajdują się pliki w następujących formatach:
 {
   "student": "Szymon Plichta",
   "status": "aktywny"
+
 }
